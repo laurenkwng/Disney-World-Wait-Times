@@ -10,7 +10,7 @@ This project was created as a final project for our Statistical Data Science cla
 Missing from image : Lauren Wong
 </p>
 
-###Contributors
+### Contributors
 * Lauren Wong
 * Andy Tran
 * David Ing
